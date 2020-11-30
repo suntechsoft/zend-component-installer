@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-component-installer",
+    "name": "suntechsoft/zend-component-installer",
     "description": "Composer plugin for injecting modules and configuration providers into application configuration",
     "type": "composer-plugin",
     "license": "BSD-3-Clause",
